@@ -26,5 +26,6 @@ public class Exp_001 {
         char x = 'x';
         String str = "Hello, this is first app";
 
+        System.out.println(str);
     }
 }
